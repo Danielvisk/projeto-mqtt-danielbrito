@@ -1,6 +1,12 @@
 # Repositorio da Sprint  8
 
-## Resumo
+## Resumo  do projeto
+
+o propósito desse projeto é  ultilizar o arduino uno com um Sensor magnético para saber se a porta está aberta ou fechada,
+
+
+
+
 
 
 
