@@ -2,13 +2,6 @@
 
 ## Resumo  do projeto
 
-o propósito desse projeto é  ultilizar o arduino uno com um Sensor magnético para saber se a porta está aberta ou fechada,
+o propósito desse projeto é  ultilizar o arduino uno com um Sensor magnético para saber se a porta es)
 
-
-
-
-
-
-
-![foto](https://github.com/Danielvisk/daniel-1repositorio/blob/main/daniel%20img.png)
-
+![fot] (https://github.com/Danielvisk/daniel-1repositorio/upload/main)
