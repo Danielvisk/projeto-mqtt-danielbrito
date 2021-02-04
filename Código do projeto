@@ -53,7 +53,7 @@ void loop() {
    
   mqttClient.connect("danielbrito");
 
- 
+   //se o estado da porta for 1  manda a msg para o celular
    if(estado_sensor == 1){
    mensagem = mqttClient.publish("danielbrito-t","aberto!");
    }
