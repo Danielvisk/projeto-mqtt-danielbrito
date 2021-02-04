@@ -1,4 +1,4 @@
-```cpp
+
 #include <PubSubClient.h>
 #include <UIPEthernet.h>
 #include <utility/logging.h>
@@ -15,7 +15,7 @@ bool mensagem;
 EthernetClient client;
 
 PubSubClient mqttClient(client); 
-
+```cpp
 void setup() {
 
    pinMode(pino2,INPUT_PULLUP); //Coloca o Pino 2 como Entrada
