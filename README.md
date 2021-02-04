@@ -28,3 +28,4 @@ Foram utilizadas as seguintes biblioteca:
 
 Autor : Daniel Brito
 
+[![gmail Badge](https://img.shields.io/badge/-gmail-blue?style=flat-square&logo=gmail&logoColor=white&link=https://)](https://mail.google.com/mail/mu/mp/985/#tl/priority/%5Esmartlabel_personal)
