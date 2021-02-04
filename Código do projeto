@@ -50,21 +50,21 @@ void setup() {
 void loop() { 
 
    estado_sensor = digitalRead(pino2); 
-   
+   //nome para acessar o app
   mqttClient.connect("danielbrito");
 
-   //se o estado da porta for 1  manda a msg para o celular
+   //se o estado da porta  ser 1,manda a msg para o celular
    if(estado_sensor == 1){
    mensagem = mqttClient.publish("danielbrito-t","aberto!");
    }
-
+   //se o estado da porta ser 0 ,manda a msg para o celular
    else{
 
     mensagem = mqttClient.publish("danielbrito-t","fechado!");
    }
 
    
-
+  //exibe a msg 
   Serial.println(mensagem);
   delay(500);
 
