@@ -14,4 +14,4 @@ intalado em um celular,conforme na imagem abaixo.
 Foram utilizadas as seguintes biblioteca:
 
 * [UIPEthernet](https://github.com/UIPEthernet/UIPEthernet)(conexao  do ENC28J60 com o arduino)
- 
+* [PubSubClient](https://github.com/knolleary/pubsubclient)(cliente MQTT para o Arduino)
