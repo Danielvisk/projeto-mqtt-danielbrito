@@ -30,4 +30,7 @@ Autor : Daniel Brito
 
 [![gmail Badge](https://img.shields.io/badge/-gmail-blue?style=flat-square&logo=gmail&logoColor=white&link=https://)](https://mail.google.com/mail/mu/mp/985/#tl/priority/%5Esmartlabel_personal)
 
-[![instagram Badge](https://img.shields.io/badge/-instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://)](https://www.instagram.com/)
+[![instagram Badge](https://img.shields.io/badge/-instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://)](https://www.instagram.com/danielbritoo01/)
+
+
+[![facebook Badge](https://img.shields.io/badge/-facebook-darkblue?style=flat-square&logo=facebook&logoColor=white&link=https://)](https://m.facebook.com/daniel.brito.5494360)
