@@ -34,3 +34,6 @@ Autor : Daniel Brito
 
 
 [![facebook Badge](https://img.shields.io/badge/-facebook-darkblue?style=flat-square&logo=facebook&logoColor=white&link=https://)](https://m.facebook.com/daniel.brito.5494360)
+
+
+[![linkedin Badge](https://img.shields.io/badge/-linkedin-black?style=flat-square&logo=linkedin&logoColor=white&link=https://)](https://www.linkedin.com/mwlite/me)
