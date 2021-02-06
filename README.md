@@ -37,3 +37,5 @@ Autor : Daniel Brito
 
 
 [![linkedin Badge](https://img.shields.io/badge/-linkedin-black?style=flat-square&logo=linkedin&logoColor=white&link=https://)](https://www.linkedin.com/mwlite/me)
+
+[![Playstation Badge](https://img.shields.io/badge/-Playstation-grey?style=flat-square&logo=Playstation&logoColor=white&link=https://)](https://my.playstation.com/profile/Dan_Daniel2001 )
