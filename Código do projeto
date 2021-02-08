@@ -55,7 +55,7 @@ void loop() {
 
    //se o estado da porta  ser 1,manda a msg para o celular
    if(estado_sensor == 1){
-    Serial.println("aberto")
+    Serial.println("aberto");
    mensagem = mqttClient.publish("danielbrito-t","aberto!");
    }
    //se o estado da porta ser 0 ,manda a msg para o celular
@@ -66,7 +66,6 @@ void loop() {
 
    
   
-  delay(500);
 
   mqttClient.loop();
     
